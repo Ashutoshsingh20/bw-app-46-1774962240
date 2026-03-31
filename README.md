@@ -1,4 +1,4 @@
-# Ghost Circuit
+# Arctic Circuit
 
 Monochrome light-themed ops dashboard with Express API and static UI.
 

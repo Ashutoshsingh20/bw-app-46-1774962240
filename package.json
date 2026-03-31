@@ -1,7 +1,7 @@
 {
   "name": "bw-app-46-1774962240",
   "version": "1.0.0",
-  "description": "Ghost Circuit monochrome ops dashboard",
+  "description": "Arctic Circuit monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
